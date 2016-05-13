@@ -1,3 +1,4 @@
 # gdev_deb
 
-Small debian repository for yet unpackaged packges.
+Small Debian repository containing some applications not yet found in other repos.  
+Page: <https://de-live-gdev.github.io/gdev_deb/>
