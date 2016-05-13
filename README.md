@@ -7,7 +7,7 @@ Contents: <https://github.com/de-live-gdev/gdev_deb/tree/gh-pages/debian/multiar
 ## How to add the repository?
 
 * Go to directory `/etc/apt`
-  * Append `deb https://github.com/de-live-gdev/gdev_deb/raw/gh-pages/debian/  multiarch/` to the file `sources.list`
+  * Append `deb https://de-live-gdev.github.io/gdev_deb/debian/  multiarch/` to the file `sources.list`
   * or create a new file inside `sources.list.d` with just the line above.
 
 Note that the repository is not yet signed and you will receive warnings, when using `apt-get update`.
